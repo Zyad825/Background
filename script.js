@@ -35,6 +35,7 @@ function changeColor() {
     }
     /*منع الموقع من السرقه*/ 
     //<![CDATA[
+/*
         document.oncontextmenu = function() {
             return false;
             };
@@ -56,3 +57,5 @@ function changeColor() {
             }
             }
             //]]>
+
+*/
