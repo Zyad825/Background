@@ -6,7 +6,7 @@
 @media screen and (max-width:600px) {
 #imgBox {
     display: block;
-    margin-top: 3px;
+    margin-top: 4px;
     width: 100%;
 }
 #img{
@@ -18,8 +18,8 @@
 @media screen and (min-width:601px) and (max-width:800px){
     #imgBox {
         display: inline-block;
-        margin-top: 1px;
-        margin-left: 1px;
+        margin-top: 2px;
+        margin-left: 2px;
         width: 48%;
     }
     #img{
@@ -51,6 +51,10 @@ div{
     display: inline-block;
     margin-top: 1px;
     width: 30%;
+}
+#imgBox{
+margin-top:3px;
+    margin-left:3px;
 }
 #img{
     width: 100%;
