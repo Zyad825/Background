@@ -105,16 +105,6 @@ transition: transform 0.3s;
   
 }
 /*animation for web*/
-/*
-main #img{
-cursor: pointer;
-transition: 0.3s ease;
-}
-main:hover > :not(:hover){
-    filter: blur(5px);
-    opacity: 0.5;
-}
-*/
 @keyframes animationn{    
     form{
         rotate: 0deg;
