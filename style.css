@@ -39,11 +39,7 @@
         }*/
 
 body {
-    margin: 0;
-    padding: 0;
     height: 100vh;
-    display: flex;
-    justify-content: center;
     align-items: center;
     background: radial-gradient(circle, #2c3e50, #34495e, #1c2833);
     background-size: 200% 200%;
