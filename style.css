@@ -41,8 +41,8 @@
         }*/
 
 body {
-    height: 100vh;
-    align-items: center;
+  /*  height: 100vh;
+    align-items: center;*/
     background: radial-gradient(circle, #2c3e50, #34495e, #1c2833);
     background-size: 200% 200%;
     animation: gradientAnimation 10s ease infinite;
@@ -68,7 +68,6 @@ margin-top:3px;
 }
 #img{
     width: 100%;
-     height:fit-content;
     /*height: 250px;*/
     border-radius: 5px;
 }
